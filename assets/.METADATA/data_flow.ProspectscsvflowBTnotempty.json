@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Prospects.csv_flow_BT_not_empty",
+    "description": "",
+    "asset_type": "data_flow",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2022-03-20T03:20:26Z",
+    "created": 1647746426087,
+    "asset_id": "data_flow.ProspectscsvflowBTnotempty",
+    "asset_attributes": [
+      "data_flow"
+    ]
+  },
+  "entity": {
+    "data_flow": {
+      "_entity_only": false
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_flow",
+      "name": "data_flow",
+      "description": "",
+      "mime": "application/json",
+      "data_partitions": 0,
+      "test_doc": 0,
+      "private_url": true,
+      "object_key": "data_flow/Prospects.csv_flow_BT_not_empty",
+      "object_key_is_read_only": false,
+      "is_partitioned": false,
+      "created_at": "2022-03-20T03:20:26Z",
+      "id": "b1463575-4ed0-4645-81ad-2f34f282fe94",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
